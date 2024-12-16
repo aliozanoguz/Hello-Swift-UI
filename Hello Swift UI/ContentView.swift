@@ -34,7 +34,7 @@ struct ContentView: View {
                 .padding()
                 .background(Color.green, in: RoundedRectangle(cornerRadius: 8))
                 .shadow(radius: 5)
-            Text("Poyraz")
+            Text("Al'")
                 .padding()
                 .background(Color.yellow, in: RoundedRectangle(cornerRadius: 8))
                 .shadow(radius: 5)
